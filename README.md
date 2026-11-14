@@ -2,15 +2,15 @@
 
 > **Ciallo～(∠・ω< )⌒★**  
 >  
-> · **事在人为，圆融自洽。**  
-> · **不从众，不屈从，不妥协，不设限。**  
+> **事在人为，圆融自洽。**  
+> **不从众，不屈从，不妥协，不设限。**
 
 就读于河北大学自动化专业，一名 **AI Native 开发者**，什么都折腾。  
 擅长使用 AI 快速落地工程，实现脑中的灵光与想法。
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -32,10 +32,10 @@
 
 ### 实时统计
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eryuemu&show_icons=true&theme=tokyonight&hide_border=true" alt="eryuemu stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryuemu&layout=compact&theme=tokyonight&hide_border=true" alt="eryuemu top langs" />
-</p>
+<div align="center">
+  <img height="195" src="https://github-stats-extended.vercel.app/api?username=eryuemu&theme=radical&hide_border=true&count_private=true" alt="eryuemu stats" />
+  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=eryuemu&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" alt="eryuemu top langs" />
+</div>
 
 ---
 
